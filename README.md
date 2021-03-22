@@ -17,8 +17,8 @@ There are three notebooks for each experiment:
 
 The file 'The skeleton of Stochastic Gradient Langevin Dynamics.py' contains the global architecture of this method, a new user needs just to adapt it to the corresponding problem, i.e mainly changing the gradients.
 
-Files a9a and a9a.t contain the a9a dataset (training and testing respectively) derived by ( Lin et al., 2008) from the UCI adult dataset.
+Files a9a and a9a.t contain the a9a dataset (training and testing respectively) derived by ( Lin et al., 2008) from the UCI adult dataset. ( link: https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/binary.html#a9a)
 
 
 [1]: M. Welling and Y. W. Teh. Bayesian learning via stochastic gradient Langevin dynamics. In Proceedings of the 28th international conference on machine learning (ICML-11),
-pages 681–688, 2011.(lien: http://www.stats.ox.ac.uk/~teh/research/compstats/WelTeh2011a.pdf)
+pages 681–688, 2011.(link: http://www.stats.ox.ac.uk/~teh/research/compstats/WelTeh2011a.pdf)
