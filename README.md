@@ -1,5 +1,8 @@
 # BML-project
 Stochastic Gradient Langevin Dynamics
+
+
+
 Nowadays, most of the problems, that Machine Learning has to solve, are based principally on very large scale datasets. Therefore, more and more advances are required in order to meet such needs.
 
 In this context, the paper titled 'Bayesian Learning via Stochastic Gradient LangevinDynamics' came along with a new method for learning from this kind of datasets based on iterative learning from small mini-batches, by combining the usual stochastic gradient optimization algorithm and Bayesian posterior sampling.
