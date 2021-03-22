@@ -11,8 +11,11 @@ Hence, the objective of this github project is to implement the method, then ana
 We first implement the algorithm by ourselves using python and then apply it on three different bayesian learnin problems:  the 'Logistic regression' with the a9a dataset (1) ,  then, using a 'Gaussian Mixture' dataset(2), and finally, the 'Logistic regression' with the Iris dataset(3).
 
 There are three notebooks for each experiment:
+
 1)a9a logistic regression .ipynb
+
 2)Mixture of Gaussian.ipynb
+
 3)Iris dataset.ipynb
 
 The file 'The skeleton of Stochastic Gradient Langevin Dynamics.py' contains the global architecture of this method, a new user needs just to adapt it to the corresponding problem, i.e mainly changing the gradients.
